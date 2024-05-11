@@ -1,0 +1,4 @@
+"open vscode
+terminal
+cd testtt
+npx cypress open"
