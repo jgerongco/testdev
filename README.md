@@ -14,4 +14,3 @@ Running Cypress is straightforward using VS Code. Follow these steps:
 - After initialization, Cypress prompts you to choose between E2E or Component Testing. Then, it prompts you to select a browser for testing.
 - Once you've made your selections, you can start testing or run the code.
 
-You can add new file in the vs code and paste the codes from github and start the testing.
